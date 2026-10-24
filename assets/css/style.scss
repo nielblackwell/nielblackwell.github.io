@@ -13,25 +13,31 @@ html {
   scroll-behavior: smooth; 
 }
 
+/* 1. Global Reset: Removes theme-forced column alignments on all views */
 body { 
   background: #faf9f6; 
   color: var(--ink); 
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; 
   font-size: 16px; 
   line-height: 1.75; 
-  padding: 54px 28px; 
+  padding: 54px 28px !important; 
+  max-width: 100% !important;
+  width: 100% !important;
 }
 
-/* Theme Override: Forces the base structural containers to yield full-width layout */
+/* 2. Structural Wrapper: Explodes wrapper constraint out to full screen size */
 .wrapper, 
-body > div.wrapper,
+div.wrapper,
 body > div { 
   width: 100% !important; 
   max-width: 100% !important;
-  margin: 0 auto !important; 
+  margin: 0 !important; 
+  padding: 0 !important;
+  float: none !important;
+  display: block !important;
 }
 
-/* Layout Adjustment: Unbinds structural headers from the left column constraint */
+/* 3. Header Identity: Overrides theme sidebar properties */
 header,
 header.identity { 
   position: static !important; 
@@ -76,7 +82,7 @@ nav {
   font-size: 14px; 
 }
 
-/* Layout Adjustment: Forces the main container to stretch full-width */
+/* 4. Main Body: Overrides theme's default desktop float limits */
 main,
 main#main,
 section { 
@@ -84,6 +90,7 @@ section {
   width: 100% !important;
   max-width: 100% !important; 
   padding-top: 34px; 
+  display: block !important;
 }
 
 main > p:first-of-type { 
@@ -106,9 +113,10 @@ h3 {
   color: var(--ink); 
 }
 
-/* Image Scaling: Keeps layout intact and prevents side-crops */
+/* 5. Image Scaling Configuration */
 main img,
-main#main img { 
+main#main img,
+section img { 
   display: block; 
   width: 100% !important; 
   max-width: 100% !important;
@@ -121,9 +129,9 @@ main#main img {
 }
 
 footer { 
-  position: static; 
-  float: none; 
-  width: auto; 
+  position: static !important; 
+  float: none !important; 
+  width: 100% !important; 
   margin-top: 58px; 
   padding-top: 20px; 
   border-top: 1px solid var(--line); 
@@ -159,7 +167,7 @@ footer {
 }
 
 @media (max-width: 700px) { 
-  body { padding: 20px 10px; } 
+  body { padding: 20px 10px !important; } 
   main > p:first-of-type { font-size: 18px; } 
   h2 { margin-top: 40px; } 
 }
