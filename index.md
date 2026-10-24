@@ -20,8 +20,6 @@ My history working within the U.S. Department of Energy (DOE), the National Nucl
 
 > *Daddy, below is what is on your updated resume. It can be here, but the resume is also linked to this site. So it can also be either shortened, put somewhere else in an abbreviated version (stay right here, moved to the end, etc. It is completely up to you. If you want this website to showcase your other skills and past experiences, we can move it, edit, delete (because resume is linked) you just tell me and I will do it. **I love you.***
 
-Project Controls • Project Scheduling • Cost Engineering & Estimating • Earned Value Management DOE / NNSA / Nuclear Programs • EPC & Construction • Baseline Development • Work Planning Procurement & Supply Chain • Cost & Price Analysis • Budgeting & Forecasting • Risk Analysis Asset / Property Management • Project Planning • Multidiscipline Estimating • Team Leadership & Mentoring
-
 ### Experience
 
 *2023-2024*
