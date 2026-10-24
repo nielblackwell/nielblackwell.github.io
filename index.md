@@ -145,34 +145,36 @@ formulation, mission verification, categorization (construction, capital asset a
 - [CV]({{ '/assets/files/Blackwell_Resume.pdf' | relative_url }})
 - [Email](mailto:niel.blackwell@gmail.com)
 
+<!-- The Button Styling (Hidden by default, shifted up/left, dark border) -->
 <a id="backToTop" href="#top" style="
   position: fixed;
-  bottom: 25px;
-  right: 25px;
+  bottom: 45px;
+  right: 45px;
   background-color: #ffffff;
-  color: #0645ad;
+  color: #111111;
   padding: 8px 14px;
-  border: 1px solid #e2e8f0;
+  border: 1px solid #aaaaaa;
   border-radius: 4px;
   text-decoration: none;
   font-size: 13px;
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
-  box-shadow: 0px 1px 3px rgba(0,0,0,0.05);
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.08);
   z-index: 1000;
   opacity: 0;
   visibility: hidden;
-  transition: opacity 0.3s ease, visibility 0.3s ease;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background-color 0.2s ease, color 0.2s ease;
 ">Top ↑</a>
 
-<!-- Scroll Logic: Shows button when user scrolls past 70% of the page -->
+<!-- Scroll Logic & Hover Effects -->
 <script>
+  var button = document.getElementById('backToTop');
+
+  // Handle Scroll Visibility (Set to 60% depth threshold)
   window.addEventListener('scroll', function() {
-    var button = document.getElementById('backToTop');
     var scrollPosition = window.scrollY + window.innerHeight;
     var pageHeight = document.documentElement.scrollHeight;
     
-    // Adjust 0.7 (70%) higher or lower depending on when you want it to trigger
-    if (scrollPosition > pageHeight * 0.7) {
+    if (scrollPosition > pageHeight * 0.6) {
       button.style.opacity = '1';
       button.style.visibility = 'visible';
     } else {
@@ -180,5 +182,17 @@ formulation, mission verification, categorization (construction, capital asset a
       button.style.visibility = 'hidden';
     }
   });
+
+  // Handle Hover Effects (Flips to dark background with white text)
+  button.addEventListener('mouseenter', function() {
+    button.style.backgroundColor = '#111111';
+    button.style.color = '#ffffff';
+  });
+  
+  button.addEventListener('mouseleave', function() {
+    button.style.backgroundColor = '#ffffff';
+    button.style.color = '#111111';
+  });
 </script>
+
 
