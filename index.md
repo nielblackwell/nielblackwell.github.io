@@ -5,7 +5,7 @@ title: Niel Blackwell
 
 ![head-shot]({{ '/assets/images/head_shot.png' | relative_url }})
 
-My history working within the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), commercial nuclear power generation, EPC and managing construction programs is displayed here, and includes:
+My history working within the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), commercial nuclear power generation, EPC and managing construction programs includes:
 
 - Construction and modification scheduling
 - Multidiscipline cost estimating
