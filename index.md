@@ -29,7 +29,7 @@ Project Controls • Project Scheduling • Cost Engineering & Estimating • Ea
 **Aecon-Wachs**
 
 *Project Scheduler / Contractor to DOE/NNSA*
-> Developed all-discipline construction and modification schedules supporting Aecon-Wachs D&R activities and temporary HVAC modifications for the proposed NNSA/DOE joint project to convert the decommissioned Mixed Oxide Fuel Fabrication Facility (MOX) at Savannah River Site (SRS) to a plutonium-pit production facility.
+> Developed all-discipline construction and modification schedules supporting Aecon-Wachs D&R activities and temporary HVAC modifications for the proposed NNSA/DOE joint project to convert the decommissioned Mixed Oxide Fuel Fabrication Facility (MOX) at Savannah River Site (SRS) to a plutonium-pit production facility.<b>
 
 *2020*
 
@@ -43,14 +43,14 @@ forecast-oriented plans.
 > Supported the Integrated Life-Cycle Cost Estimate (ILCE), including scope, schedule and estimates for work across the
 installation.
 > Supported PMCD/OIP program implementation and execution through program/project management, project
-formulation, mission verification, categorization (construction, capital asset and operations) and baseline development.
+formulation, mission verification, categorization (construction, capital asset and operations) and baseline development.<b>
 
 *2016-2017*
 
 **Bass Consulting Group**
 
 *Senior Estimator: Mechanical Scope - AECOM/DOE Proposal*
-> Provided senior mechanical estimating support for a DOE liquid waste proposal.
+> Provided senior mechanical estimating support for a DOE liquid waste proposal.<b>
 
 *2007-2015*
 
@@ -60,7 +60,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Supported Vogtle Nuclear Plant Units 1 & 2 power uprate work, Part 73 security upgrades, Units 1 & 2 Digital Feed Water Control System upgrades, plant modifications and major site projects.
 > Developed and maintained project baselines, construction estimates, manpower utilization plans and Primavera P6 schedules for the approximately $80M Vogtle 1 & 2 Uprate Project and related site upgrades.
 > Supervised Williams contract work planners.
-> Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.Initially, my goal was simply to map the interconnectedness of khipu across Andean civilizations using network analysis. The Met’s open-access dataset was a random choice for a starting point. But as I cleaned the data and ran my confirmation sweeps, I discovered a profound, literal void: a total count of zero. 
+> Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.Initially, my goal was simply to map the interconnectedness of khipu across Andean civilizations using network analysis. The Met’s open-access dataset was a random choice for a starting point. But as I cleaned the data and ran my confirmation sweeps, I discovered a profound, literal void: a total count of zero.<b>
 
 *1990-2005* 
 
@@ -75,7 +75,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Performed and supervised fair-cost procurement estimates and cost/price analysis for fabricated materials, engineered equipment and components, construction subcontracts and services.
 > Developed a database of actual contract costs for use by engineering, procurement and site estimating.
 > Established field offices supporting procurement construction subcontract administrators and developed site policy/procedures for construction subcontract design changes.
-> Managed the WSRC Procurement Card Program and the START Program used to evaluate supplier delivery and performance metrics.
+> Managed the WSRC Procurement Card Program and the START Program used to evaluate supplier delivery and performance metrics.<b>
 
 *1989-1990*
 
@@ -83,7 +83,7 @@ formulation, mission verification, categorization (construction, capital asset a
 
 *Principal Estimator and Field Office Manager*
 > Prepared and supervised multidiscipline construction estimates and prepared/conducted EOC presentations to engineering and project management.
-> Established and managed the New Ellenton, SC field office, serving as the HR interface and technical lead estimator for site-assigned employees.
+> Established and managed the New Ellenton, SC field office, serving as the HR interface and technical lead estimator for site-assigned employees.<b>
 
 
 *1967-1989* 
