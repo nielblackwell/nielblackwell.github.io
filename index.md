@@ -63,7 +63,7 @@ formulation, mission verification, categorization (construction, capital asset a
 
 **1990-2005** 
 
-**Westinghouse Savannah River Company (U.S. DOE)**
+**Westinghouse Savannah River Company (U.S. Department of Energy (DOE))**
 
 *Lead Administrative Analyst: Asset Management / Property Management Group*
 > Developed the WSRC Subcontract Property Program and procedures for managing Government Furnished Property provided to subcontractors and universities.
@@ -81,7 +81,8 @@ formulation, mission verification, categorization (construction, capital asset a
 **Chas. T. Main, Inc. - Government Services Division**
 
 *Principal Estimator and Field Office Manager*
-> Prepared and supervised multidiscipline construction estimates and prepared/conducted EOC presentations to engineering and project management.
+> Prepared and supervised heavy civil and construction cost estimates for major power and infrastructure projects across the Carolinas.
+> Creation and implementation of the formal Estimate of Cost (EOC) presentations,  delivered directly to corporate engineering and project management boards.
 > Established and managed the New Ellenton, SC field office, serving as the HR interface and technical lead estimator for site-assigned employees.<b>
 
 
