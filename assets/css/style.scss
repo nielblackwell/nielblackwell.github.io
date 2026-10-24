@@ -13,7 +13,6 @@ html {
   scroll-behavior: smooth; 
 }
 
-/* 1. Global Reset: Removes theme-forced column alignments on all views */
 body { 
   background: #faf9f6; 
   color: var(--ink); 
@@ -25,7 +24,6 @@ body {
   width: 100% !important;
 }
 
-/* 2. Structural Wrapper: Explodes wrapper constraint out to full screen size */
 .wrapper, 
 div.wrapper,
 body > div { 
@@ -37,7 +35,7 @@ body > div {
   display: block !important;
 }
 
-/* 3. Header Identity: Overrides theme sidebar properties */
+/* Updated: Centered the text and identity layout elements at the top */
 header,
 header.identity { 
   position: static !important; 
@@ -46,6 +44,7 @@ header.identity {
   max-width: 100% !important;
   padding-bottom: 30px; 
   border-bottom: 1px solid var(--line); 
+  text-align: center !important; /* Centers the name and tagline text */
 }
 
 a { 
@@ -75,14 +74,15 @@ a:hover, a:focus {
   font-size: 16px; 
 }
 
+/* Updated: Centered the navbar links as a row */
 nav { 
   display: flex; 
   flex-wrap: wrap; 
   gap: 10px 25px; 
   font-size: 14px; 
+  justify-content: center !important; /* Horizontally centers all links together */
 }
 
-/* 4. Main Body: Overrides theme's default desktop float limits */
 main,
 main#main,
 section { 
@@ -113,7 +113,6 @@ h3 {
   color: var(--ink); 
 }
 
-/* 5. Image Scaling Configuration */
 main img,
 main#main img,
 section img { 
@@ -128,6 +127,7 @@ section img {
   box-sizing: border-box; 
 }
 
+/* Updated: Centered the footer copyright section at the very bottom */
 footer { 
   position: static !important; 
   float: none !important; 
@@ -136,6 +136,7 @@ footer {
   padding-top: 20px; 
   border-top: 1px solid var(--line); 
   color: var(--muted); 
+  text-align: center !important; /* Centers the footer copyright text */
 }
 
 .sr-only { 
