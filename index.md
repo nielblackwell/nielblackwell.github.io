@@ -114,7 +114,9 @@ Utilizing my early-career expertise in project controls, budgeting, and speciali
 
 I decided to treat this absence as the subject itself. By building a network graph linking the Met's 2,108 Andean objects to their respective cultures and mediums, I used betweenness centrality to find the hidden tissue holding the picture together. 
 
-## Other things you want will be added, just tell me :)
+## Other 
+
+**things you want will be added, just tell me :)**
 
 
 ## Connect
