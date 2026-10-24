@@ -22,18 +22,22 @@ body {
   padding: 54px 28px; 
 }
 
-/* Forces the layout container to stretch edge-to-edge */
-.wrapper { 
-  width: 100%; 
-  max-width: 100%;
-  margin: 0 auto; 
+/* Theme Override: Forces the base structural containers to yield full-width layout */
+.wrapper, 
+body > div.wrapper,
+body > div { 
+  width: 100% !important; 
+  max-width: 100% !important;
+  margin: 0 auto !important; 
 }
 
-/* Fixed selector: Changed from header.identity to header */
-header { 
+/* Layout Adjustment: Unbinds structural headers from the left column constraint */
+header,
+header.identity { 
   position: static !important; 
   float: none !important; 
   width: 100% !important; 
+  max-width: 100% !important;
   padding-bottom: 30px; 
   border-bottom: 1px solid var(--line); 
 }
@@ -72,7 +76,9 @@ nav {
   font-size: 14px; 
 }
 
-/* Fixed selector: Changed from main to section to widen the text column */
+/* Layout Adjustment: Forces the main container to stretch full-width */
+main,
+main#main,
 section { 
   float: none !important;
   width: 100% !important;
@@ -80,7 +86,7 @@ section {
   padding-top: 34px; 
 }
 
-section > p:first-of-type { 
+main > p:first-of-type { 
   font-size: 19px; 
   line-height: 1.8; 
 }
@@ -100,10 +106,12 @@ h3 {
   color: var(--ink); 
 }
 
-/* Fixed selector: Updated to target images inside the section element */
-section img { 
+/* Image Scaling: Keeps layout intact and prevents side-crops */
+main img,
+main#main img { 
   display: block; 
-  width: 100%; 
+  width: 100% !important; 
+  max-width: 100% !important;
   height: auto !important; 
   object-fit: contain !important; 
   border-radius: 5px; 
@@ -152,7 +160,7 @@ footer {
 
 @media (max-width: 700px) { 
   body { padding: 20px 10px; } 
-  section > p:first-of-type { font-size: 18px; } 
+  main > p:first-of-type { font-size: 18px; } 
   h2 { margin-top: 40px; } 
 }
 
