@@ -3,6 +3,8 @@ layout: landing
 title: Niel Blackwell
 ---
 
+<a name="top"></a>
+
 ![head-shot]({{ '/assets/images/head_shot.png' | relative_url }})
 
 My history working within the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), commercial nuclear power generation, EPC and managing construction programs includes:
@@ -139,6 +141,22 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/nielblackwell/)
+- [LinkedIn](https://linkedin.com)
 - [CV]({{ '/assets/files/Blackwell_Resume.pdf' | relative_url }})
 - [Email](mailto:niel.blackwell@gmail.com)
+
+<a href="#top" style="
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background-color: #ffffff;
+  color: #0645ad;
+  padding: 8px 14px;
+  border: 1px solid #e2e8f0;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
+  box-shadow: 0px 1px 3px rgba(0,0,0,0.05);
+  z-index: 1000;
+">Top ⬆️</a>
