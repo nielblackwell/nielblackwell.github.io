@@ -1,2 +1,2 @@
-# ashleybrookeblackwell.github.io
-Personal portfolio showcasing applied data science, digital humanities research, and data visualization.
+# nielblackwell.github.io
+Personal portfolio showcasing previous work and experience for Branard O'Niel Blackwell.
