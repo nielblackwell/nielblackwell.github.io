@@ -20,9 +20,6 @@ My history working within the U.S. Department of Energy (DOE), the National Nucl
 
 ## Core Expertise
 
-> *Daddy, below is what is on your updated resume. It can be here, but the resume is also linked to this site. So it can also be either shortened, put somewhere else in an abbreviated version (stay right here, moved to the end, etc. It is completely up to you. If you want this website to showcase your other skills and past experiences, we can move it, edit, delete (because resume is linked) you just tell me and I will do it. **I love you.***
-
-
 **2023-2024**
 
 **Aecon-Wachs**
@@ -59,7 +56,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Supported Vogtle Nuclear Plant Units 1 & 2 power uprate work, Part 73 security upgrades, Units 1 & 2 Digital Feed Water Control System upgrades, plant modifications and major site projects.
 > Developed and maintained project baselines, construction estimates, manpower utilization plans and Primavera P6 schedules for the approximately $80M Vogtle 1 & 2 Uprate Project and related site upgrades.
 > Supervised Williams contract work planners.
-> Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.Initially, my goal was simply to map the interconnectedness of khipu across Andean civilizations using network analysis. The Met’s open-access dataset was a random choice for a starting point. But as I cleaned the data and ran my confirmation sweeps, I discovered a profound, literal void: a total count of zero.<b>
+> Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.<b>
 
 **1990-2005** 
 
