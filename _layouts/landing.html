@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="wrapper">
+    <header class="identity">
+      <a class="wordmark" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+      <p class="tagline">{{ site.description | escape }}</p>
+      <nav aria-label="Main navigation">
+        <a href="#core-expertise">Core Expertise</a>
+        <a href="#education">Education</a>
+        <a href="#professional-associations">Professional Associations</a>
+        <a href="#publication">Publication</a>
+        <a href="#other">Other</a>
+        <a href="#connect">Connect</a>
+      </nav>
+    </header>
+    <main id="main" tabindex="-1">
+      <h1 class="sr-only">{{ site.title | escape }}</h1>
+      {{ content }}
+    </main>
+    <footer><small>© {{ 'now' | date: '%Y' }} {{ site.title | escape }} · Built with Jekyll and Minimal.</small></footer>
+  </div>
+</body>
+</html>
