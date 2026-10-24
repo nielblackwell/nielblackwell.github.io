@@ -23,14 +23,14 @@ My history working within the U.S. Department of Energy (DOE), the National Nucl
 > *Daddy, below is what is on your updated resume. It can be here, but the resume is also linked to this site. So it can also be either shortened, put somewhere else in an abbreviated version (stay right here, moved to the end, etc. It is completely up to you. If you want this website to showcase your other skills and past experiences, we can move it, edit, delete (because resume is linked) you just tell me and I will do it. **I love you.***
 
 
-*2023-2024*
+**2023-2024**
 
 **Aecon-Wachs**
 
 *Project Scheduler / Contractor to DOE/NNSA*
 > Developed all-discipline construction and modification schedules supporting Aecon-Wachs D&R activities and temporary HVAC modifications for the proposed NNSA/DOE joint project to convert the decommissioned Mixed Oxide Fuel Fabrication Facility (MOX) at Savannah River Site (SRS) to a plutonium-pit production facility.<b>
 
-*2020*
+**2020**
 
 **CRC Technologies Inc.: Mission Planning Division**
 
@@ -44,14 +44,14 @@ installation.
 > Supported PMCD/OIP program implementation and execution through program/project management, project
 formulation, mission verification, categorization (construction, capital asset and operations) and baseline development.<b>
 
-*2016-2017*
+**2016-2017**
 
 **Bass Consulting Group**
 
 *Senior Estimator: Mechanical Scope - AECOM/DOE Proposal*
 > Provided senior mechanical estimating support for a DOE liquid waste proposal.<b>
 
-*2007-2015*
+**2007-2015**
 
 **Southern Nuclear - Vogtle Nuclear Plant**
 
@@ -61,7 +61,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Supervised Williams contract work planners.
 > Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.Initially, my goal was simply to map the interconnectedness of khipu across Andean civilizations using network analysis. The Met’s open-access dataset was a random choice for a starting point. But as I cleaned the data and ran my confirmation sweeps, I discovered a profound, literal void: a total count of zero.<b>
 
-*1990-2005* 
+**1990-2005** 
 
 **Westinghouse Savannah River Company (U.S. DOE)**
 
@@ -76,7 +76,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Established field offices supporting procurement construction subcontract administrators and developed site policy/procedures for construction subcontract design changes.
 > Managed the WSRC Procurement Card Program and the START Program used to evaluate supplier delivery and performance metrics.<b>
 
-*1989-1990*
+**1989-1990**
 
 **Chas. T. Main, Inc. - Government Services Division**
 
@@ -85,7 +85,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Established and managed the New Ellenton, SC field office, serving as the HR interface and technical lead estimator for site-assigned employees.<b>
 
 
-*1967-1989* 
+**1967-1989** 
 
 **Southern Company Services - The Southern Company**
 
