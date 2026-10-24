@@ -11,6 +11,7 @@
 
 html { 
   scroll-behavior: smooth; 
+  overflow-x: hidden; /* Prevents tiny accidental side-scrolling on iOS */
 }
 
 body { 
@@ -20,22 +21,24 @@ body {
   font-size: 16px; 
   line-height: 1.75; 
   padding: 54px 28px !important; 
-  max-width: 100% !important;
   width: 100% !important;
+  box-sizing: border-box; /* Makes sure padding stays inside the screen width bounds */
 }
 
+/* FIX 1: Restricts maximum layout width on desktop and centers it perfectly */
 .wrapper, 
 div.wrapper,
 body > div { 
   width: 100% !important; 
-  max-width: 100% !important;
-  margin: 0 !important; 
+  max-width: 1200px !important; /* Cap it so it doesn't overflow giant desktop screens */
+  margin: 0 auto !important;    /* "auto" perfectly centers the site container on macOS */
   padding: 0 !important;
   float: none !important;
   display: block !important;
+  box-sizing: border-box;
 }
 
-/* Updated: Centered the text and identity layout elements at the top */
+/* FIX 2: Fixed layout text alignment for macOS & iOS viewports */
 header,
 header.identity { 
   position: static !important; 
@@ -44,7 +47,8 @@ header.identity {
   max-width: 100% !important;
   padding-bottom: 30px; 
   border-bottom: 1px solid var(--line); 
-  text-align: center !important; /* Centers the name and tagline text */
+  text-align: center !important; 
+  box-sizing: border-box;
 }
 
 a { 
@@ -74,13 +78,12 @@ a:hover, a:focus {
   font-size: 16px; 
 }
 
-/* Updated: Centered the navbar links as a row */
 nav { 
   display: flex; 
   flex-wrap: wrap; 
   gap: 10px 25px; 
   font-size: 14px; 
-  justify-content: center !important; /* Horizontally centers all links together */
+  justify-content: center !important; 
 }
 
 main,
@@ -91,6 +94,7 @@ section {
   max-width: 100% !important; 
   padding-top: 34px; 
   display: block !important;
+  box-sizing: border-box;
 }
 
 main > p:first-of-type { 
@@ -107,10 +111,13 @@ h2 {
   scroll-margin-top: 24px; 
 }
 
+/* FIX 3: Forces long headings (like the expertise line items) to wrap on mobile screens */
 h3 { 
   font-size: 21px; 
   margin: 34px 0 18px; 
   color: var(--ink); 
+  word-wrap: break-word;       /* Allows strings to break and wrap nicely */
+  overflow-wrap: break-word;  
 }
 
 main img,
@@ -127,7 +134,6 @@ section img {
   box-sizing: border-box; 
 }
 
-/* Updated: Centered the footer copyright section at the very bottom */
 footer { 
   position: static !important; 
   float: none !important; 
@@ -136,7 +142,7 @@ footer {
   padding-top: 20px; 
   border-top: 1px solid var(--line); 
   color: var(--muted); 
-  text-align: center !important; /* Centers the footer copyright text */
+  text-align: center !important; 
 }
 
 .sr-only { 
@@ -168,7 +174,7 @@ footer {
 }
 
 @media (max-width: 700px) { 
-  body { padding: 20px 10px !important; } 
+  body { padding: 20px 15px !important; } 
   main > p:first-of-type { font-size: 18px; } 
   h2 { margin-top: 40px; } 
 }
