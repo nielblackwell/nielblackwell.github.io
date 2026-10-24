@@ -146,7 +146,7 @@ formulation, mission verification, categorization (construction, capital asset a
 - [Email](mailto:niel.blackwell@gmail.com)
 
 <!-- The Button Styling (Hidden by default, shifted up/left, dark border) -->
-<a id="backToTop" href="#top" style="
+<a id="backToTop" href="#" style="
   position: fixed;
   bottom: 45px;
   right: 45px;
