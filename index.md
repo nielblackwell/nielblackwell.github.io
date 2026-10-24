@@ -127,7 +127,7 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Publication
 
-### “Financing Nuclear Power Plant Pollution Control Facilities.” AACE Mid-Winter Symposium, New Orleans, LA, 1986.
+### “*Financing Nuclear Power Plant Pollution Control Facilities.*” AACE Mid-Winter Symposium, New Orleans, LA, 1986.
 
 > In the mid-1980s, nuclear power plants faced massive capital expenditures. These were driven by heightened post-Three Mile Island safety regulations, environmental compliance standards, and changing financial structures. This specific symposium paper addressed the intricate mechanisms utilities used to fund multi-million dollar pollution control and environmental safety additions. Examples of such mechanisms included tax-exempt pollution control revenue bonds (PCRBs), traditional equity/debt financing, and structured utility rate-basing.
 
