@@ -145,7 +145,7 @@ formulation, mission verification, categorization (construction, capital asset a
 - [CV]({{ '/assets/files/Blackwell_Resume.pdf' | relative_url }})
 - [Email](mailto:niel.blackwell@gmail.com)
 
-<a href="#top" style="
+<a id="backToTop" href="#top" style="
   position: fixed;
   bottom: 25px;
   right: 25px;
@@ -159,4 +159,26 @@ formulation, mission verification, categorization (construction, capital asset a
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.05);
   z-index: 1000;
-">Top ⬆️</a>
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+">Top ↑</a>
+
+<!-- Scroll Logic: Shows button when user scrolls past 70% of the page -->
+<script>
+  window.addEventListener('scroll', function() {
+    var button = document.getElementById('backToTop');
+    var scrollPosition = window.scrollY + window.innerHeight;
+    var pageHeight = document.documentElement.scrollHeight;
+    
+    // Adjust 0.7 (70%) higher or lower depending on when you want it to trigger
+    if (scrollPosition > pageHeight * 0.7) {
+      button.style.opacity = '1';
+      button.style.visibility = 'visible';
+    } else {
+      button.style.opacity = '0';
+      button.style.visibility = 'hidden';
+    }
+  });
+</script>
+
