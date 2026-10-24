@@ -118,9 +118,9 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Professional Associations
 
-**American Association of Cost Engineers (AACE)**, *CCE*
+**American Association of Cost Engineers (AACE)** - *CCE*
 
-**National Contract Management Association (NCMA)**, *CACM*
+**National Contract Management Association (NCMA)** - *CACM*
 
 **National Property Management Association (NPMA)**
 
