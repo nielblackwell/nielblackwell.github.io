@@ -5,9 +5,7 @@ title: Niel Blackwell
 
 ![head-shot]({{ '/assets/images/head_shot.png' | relative_url }})
 
-# My history lies predominantly within the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), commercial nuclear power generation, EPC and managing construction programs. 
-
-# My background is extensive, including:
+My history working within the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), commercial nuclear power generation, EPC and managing construction programs is displayed here, and includes:
 
 - Construction and modification scheduling
 - Multidiscipline cost estimating
@@ -18,23 +16,23 @@ title: Niel Blackwell
 - Work planning
 - Field engineering
 
-# My in-depth knowledge and experience with complex nuclear and government programs at Savannah River Site and Plant Vogtle is outlined below, outlining my record handling cross-functional project support, problem solving and team leadership.
-
 ## Core Expertise
 
-*Daddy, below is what is on your updated resume. It can be here, but the resume is also linked to this site. So it can also be either shortened, put somewhere else in an abbreviated version (stay right here, moved to the end, etc. It is completely up to you. If you want this website to showcase your other skills and past experiences, we can move it, edit, delete (because resume is linked) you just tell me and I will do it. **I love you.***
+> *Daddy, below is what is on your updated resume. It can be here, but the resume is also linked to this site. So it can also be either shortened, put somewhere else in an abbreviated version (stay right here, moved to the end, etc. It is completely up to you. If you want this website to showcase your other skills and past experiences, we can move it, edit, delete (because resume is linked) you just tell me and I will do it. **I love you.***
 
 Project Controls • Project Scheduling • Cost Engineering & Estimating • Earned Value Management DOE / NNSA / Nuclear Programs • EPC & Construction • Baseline Development • Work Planning Procurement & Supply Chain • Cost & Price Analysis • Budgeting & Forecasting • Risk Analysis Asset / Property Management • Project Planning • Multidiscipline Estimating • Team Leadership & Mentoring
 
-# Experience
+### Experience
 
 *2023-2024*
+
 **Aecon-Wachs**
 
 *Project Scheduler / Contractor to DOE/NNSA*
 > Developed all-discipline construction and modification schedules supporting Aecon-Wachs D&R activities and temporary HVAC modifications for the proposed NNSA/DOE joint project to convert the decommissioned Mixed Oxide Fuel Fabrication Facility (MOX) at Savannah River Site (SRS) to a plutonium-pit production facility.
 
 *2020*
+
 **CRC Technologies Inc.: Mission Planning Division**
 
 *Contractor to DOE*
@@ -48,12 +46,14 @@ installation.
 formulation, mission verification, categorization (construction, capital asset and operations) and baseline development.
 
 *2016-2017*
+
 **Bass Consulting Group**
 
 *Senior Estimator: Mechanical Scope - AECOM/DOE Proposal*
 > Provided senior mechanical estimating support for a DOE liquid waste proposal.
 
 *2007-2015*
+
 **Southern Nuclear - Vogtle Nuclear Plant**
 
 *Senior Estimator / Work Planning Supervisor: Cost & Scheduling*
@@ -63,6 +63,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.Initially, my goal was simply to map the interconnectedness of khipu across Andean civilizations using network analysis. The Met’s open-access dataset was a random choice for a starting point. But as I cleaned the data and ran my confirmation sweeps, I discovered a profound, literal void: a total count of zero. 
 
 *1990-2005* 
+
 **Westinghouse Savannah River Company (U.S. DOE)**
 
 *Lead Administrative Analyst: Asset Management / Property Management Group*
@@ -77,6 +78,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Managed the WSRC Procurement Card Program and the START Program used to evaluate supplier delivery and performance metrics.
 
 *1989-1990*
+
 **Chas. T. Main, Inc. - Government Services Division**
 
 *Principal Estimator and Field Office Manager*
@@ -85,6 +87,7 @@ formulation, mission verification, categorization (construction, capital asset a
 
 
 *1967-1989* 
+
 **Southern Company Services - The Southern Company**
 
 *Lead Field Cost Engineer - Nuclear Plant Field Engineering Support Group*
@@ -102,16 +105,15 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Education
 
-# BA, University of Alabama | Tuscaloosa, AL
+**BA, University of Alabama** | Tuscaloosa, AL
 
-# MBA, Samford University | Birmingham, AL
+**MBA, Samford University** | Birmingham, AL
 
-# MDiv, Southeastern Baptist Theological Seminary | Wake Forest, NC
+**MDiv, Southeastern Baptist Theological Seminary** | Wake Forest, NC
 
-# Law Studies, Birmingham School of Law | Birmingham, AL
+**Law Studies, Birmingham School of Law** | Birmingham, AL
 
-# Ministerial Studies, Samford University | Birmingham, AL 
-> **U.S. Army Chaplain Candidate Program**
+**Ministerial Studies: *U.S. Army Chaplain Candidate Program*, Samford University** | Birmingham, AL
   
 
 ## Professional Associations
