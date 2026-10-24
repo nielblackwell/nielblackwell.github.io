@@ -105,15 +105,15 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Education
 
-**BA, University of Alabama** | Tuscaloosa, AL
+**BA, University of Alabama**, Tuscaloosa, AL
 
-**MBA, Samford University** | Birmingham, AL
+**MBA, Samford University**, Birmingham, AL
 
-**MDiv, Southeastern Baptist Theological Seminary** | Wake Forest, NC
+**MDiv, Southeastern Baptist Theological Seminary**, Wake Forest, NC
 
-**Law Studies, Birmingham School of Law** | Birmingham, AL
+**Law Studies, Birmingham School of Law**, Birmingham, AL
 
-**Ministerial Studies: *U.S. Army Chaplain Candidate Program*, Samford University** | Birmingham, AL
+**Ministerial Studies: *U.S. Army Chaplain Candidate Program*, Samford University**, Birmingham, AL
   
 
 ## Professional Associations
