@@ -132,8 +132,9 @@ Drawing upon early-career expertise in nuclear project controls, budgeting, and 
 Over the past four decades, I have dedicated my career to driving precision, stability, and excellence within major energy, infrastructure, and nuclear compliance projects. Working extensively alongside the U.S. Department of Energy (DOE) and the National Nuclear Security Administration (NNSA), I have had the privilege of managing complex project baselines, life-cycle cost estimates, and multi-million dollar scheduling frameworks at landmark facilities like the Savannah River Site and Vogtle Nuclear Plant.<br>
 What defines my life's work, however, is a unique intersection of disciplines. I have always believed in continuous growth, which led me to pair the analytical logic of my mechanical engineering foundation with the corporate strategy of an MBA and the strict regulatory insights of my formal law studies.<br>
 Equally central to who I am is my calling to ministry and chaplaincy. Through my Master of Divinity studies and U.S. Army Chaplain training, I have learned that true leadership requires profound empathy. Whether I am balancing a highly technical federal project baseline, counseling teams through high-stress operational environments, raising five beautiful children with my wife, Carolyn, or visiting the Charlie Norwood Department of Veterans Affairs Medical Center (VA) to minister, my goal is always the same:<br>
-:---:
-***Lead with absolute precision and unyielding integrity.***
+
+<c>***Lead with absolute precision and unyielding integrity.***<c>
+
 
 ## Connect
 
