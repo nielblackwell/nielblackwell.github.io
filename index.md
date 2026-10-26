@@ -17,7 +17,6 @@ What truly sets Niel apart is his rare, multi-disciplinary foundation: he pairs 
 * **Financial & Asset Strategy:** Developing life-cycle planning, budget forecasting, and high-ROI asset/property management programs tailored to federal (DOE/NNSA) frameworks.
 * **Mission-Driven Leadership:** Utilizing advanced ministerial and chaplaincy training to foster team cohesion, coordinate employee care programs, and provide empathetic, high-integrity leadership.
 
----
 
 **2023-2024**
 
@@ -25,7 +24,7 @@ What truly sets Niel apart is his rare, multi-disciplinary foundation: he pairs 
 
 *Project Scheduler / Contractor to DOE/NNSA*
 > Developed all-discipline construction and modification schedules supporting Aecon-Wachs D&R activities and temporary HVAC modifications for the proposed NNSA/DOE joint project to convert the decommissioned Mixed Oxide Fuel Fabrication Facility (MOX) at Savannah River Site (SRS) to a plutonium-pit production facility.<br>
----
+
 **2020**
 
 **CRC Technologies Inc.: Mission Planning Division**
@@ -39,14 +38,14 @@ forecast-oriented plans.
 installation.
 > Supported PMCD/OIP program implementation and execution through program/project management, project
 formulation, mission verification, categorization (construction, capital asset and operations) and baseline development.<br>
----
+
 **2016-2017**
 
 **Bass Consulting Group**
 
 *Senior Estimator: Mechanical Scope - AECOM/DOE Proposal*
 > Provided senior mechanical estimating support for a DOE liquid waste proposal.<br>
----
+
 **2007-2015**
 
 **Southern Nuclear - Vogtle Nuclear Plant**
@@ -56,7 +55,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Developed and maintained project baselines, construction estimates, manpower utilization plans and Primavera P6 schedules for the approximately $80M Vogtle 1 & 2 Uprate Project and related site upgrades.
 > Supervised Williams contract work planners.
 > Supported EPC organizational, procurement and administrative activities and a field engineer mechanical assignment.<br>
----
+
 **1990-2005** 
 
 **Westinghouse Savannah River Company (U.S. Department of Energy (DOE))**
@@ -65,13 +64,13 @@ formulation, mission verification, categorization (construction, capital asset a
 > Developed the WSRC Subcontract Property Program and procedures for managing Government Furnished Property provided to subcontractors and universities.
 > Developed and implemented an Asset Management Export Control Program with checks and balances designed to prevent inadvertent release of classified or sensitive data and proprietary site-designed components or equipment.
 > Developed and managed the WSRC/DOE Exchange Sale Program for trade-in of DOE-owned material and equipment, with revenues reported as greatly exceeding (800%) the traditional ROI of government-sponsored excess sales.<br>
----
+
 *Manager: Procurement Cost Engineering Group, Procurement & Materials Management Department*
 > Performed and supervised fair-cost procurement estimates and cost/price analysis for fabricated materials, engineered equipment and components, construction subcontracts and services.
 > Developed a database of actual contract costs for use by engineering, procurement and site estimating.
 > Established field offices supporting procurement construction subcontract administrators and developed site policy/procedures for construction subcontract design changes.
 > Managed the WSRC Procurement Card Program and the START Program used to evaluate supplier delivery and performance metrics.<br>
----
+
 **1989-1990**
 
 **Chas. T. Main, Inc. - Government Services Division**
@@ -80,7 +79,7 @@ formulation, mission verification, categorization (construction, capital asset a
 > Prepared and supervised heavy civil and construction cost estimates for major power and infrastructure projects across the Carolinas.
 > Creation and implementation of the formal Estimate of Cost (EOC) presentations,  delivered directly to corporate engineering and project management boards.
 > Established and managed the New Ellenton, SC field office, serving as the HR interface and technical lead estimator for site-assigned employees.<br>
----
+
 **1967-1989** 
 
 **Southern Company Services - The Southern Company**
@@ -88,15 +87,15 @@ formulation, mission verification, categorization (construction, capital asset a
 *Lead Field Cost Engineer - Nuclear Plant Field Engineering Support Group*
 > Produced field design and as-built estimates for joint Georgia Power and Bechtel projects and prepared cost-impact-to-budget reports.
 > Coordinated HR/Employee Concerns Programs for a joint Southern Company/Bechtel 35-member field office with the Birmingham home office.<br>
----
+
 *Cost Engineer*
 > Provided estimating support for retrofit projects for Georgia Power, Gulf Power and Mississippi Power.
 > Served as lead estimator for the EPRI Breeder Reactor estimate and the Plant Vogtle Pollution Control Bond issue release.
 > Partnered with procurement representatives on RFQ and bid proposal negotiations, interfacing with suppliers, architects, engineers and project management.<br>
----
+
 *Co-op Student-Designer: Mechanical Design Department*
 > Progressed through drafting and designer job families while assigned to the home office and field support groups for fossil-fuel generating plants in the Southern Company system.
----
+
 ## Education
 
 **JD Program (Law Studies)**, Birmingham School of Law, Birmingham, AL
