@@ -8,7 +8,8 @@ title: Niel Blackwell
 ![head-shot]({{ '/assets/images/head_shot.png' | relative_url }})
 
 Niel Blackwell is a high-caliber Project Controls and Cost Engineering professional with over four decades of distinguished experience driving major energy, infrastructure, and nuclear compliance projects. Throughout a career spanning the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), and commercial nuclear power generation, Niel has managed millions in project baselines, life-cycle cost estimates, and complex scheduling frameworks.<br>
-What truly sets Niel apart is his rare, multi-disciplinary foundation: he pairs deep technical mechanical engineering rigor with advanced business acumen (MBA), rigorous legal training (Pre-Law & JD studies), and an unyielding commitment to servant leadership and community care (Dual MDiv tracks and U.S. Army Chaplaincy training). This unique intersection allows him to navigate complex federal regulations, optimize corporate asset management, and lead multi-disciplinary teams with absolute precision and profound empathy.<br>
+
+What truly sets Niel apart is his rare, multi-disciplinary foundation: he pairs deep technical mechanical engineering rigor with advanced business acumen (MBA), rigorous legal training (Pre-Law & JD studies), and an unyielding commitment to servant leadership and community care (Dual MDiv tracks and U.S. Army Chaplaincy training). This unique intersection allows him to navigate complex federal regulations, optimize corporate asset management, and lead multi-disciplinary teams with absolute precision and profound empathy.
 
 
 
@@ -124,21 +125,22 @@ formulation, mission verification, categorization (construction, capital asset a
 
 ## Professional Associations and Certifications
 
-* **American Association of Cost Engineers (AACE International)** 
-  * *Certified Cost Engineer (CCE)* <br>A globally recognized credential demonstrating advanced expertise in total cost management, multi-discipline estimating, and project controls framework execution.<br>
-* **National Contract Management Association (NCMA)**
-  * *Certified Advanced Contract Manager (CACM)* <br>Validates comprehensive mastery of federal, commercial, and international acquisition regulations, contract structures, and structural risk mitigation.<br>
-* **National Property Management Association (NPMA)**
-  * *Active member* engaged in standardizing life-cycle asset management, regulatory compliance frameworks, and government-furnished property tracking systems.</br>
+* **American Association of Cost Engineers (AACE International)** | Certified Cost Engineer (CCE) <br>
+> A globally recognized credential demonstrating advanced expertise in total cost management, multi-discipline estimating, and project controls framework execution.<br>
+* **National Contract Management Association (NCMA)** | Certified Advanced Contract Manager (CACM) <br>
+> Validates comprehensive mastery of federal, commercial, and international acquisition regulations, contract structures, and structural risk mitigation.<br>
+* **National Property Management Association (NPMA)** <br>
+> Active member engaged in standardizing life-cycle asset management, regulatory compliance frameworks, and government-furnished property tracking systems.<br> 
 
 
 
 ## Publication
 
 ### “Financing Nuclear Power Plant Pollution Control Facilities” 
-*AACE International Mid-Winter Symposium — New Orleans, LA, 1986*
+- AACE International Mid-Winter Symposium — New Orleans, LA, 1986
 
 In the mid-1980s, the commercial nuclear power industry faced massive capital expenditures driven by heightened post-Three Mile Island safety regulations and evolving environmental compliance standards. This symposium paper analyzed the complex corporate and public finance mechanisms utilities utilized to fund multi-million dollar pollution control overhauls.<br>
+
 Drawing upon early-career expertise in nuclear project controls, budgeting, and specialized asset management, the paper provided a comprehensive framework for structuring tax-exempt pollution control revenue bonds (PCRBs), traditional equity/debt financing, and structured utility rate-basing under rigorous state regulatory oversight.</br>
 
 
@@ -146,7 +148,9 @@ Drawing upon early-career expertise in nuclear project controls, budgeting, and 
 ## My Story and Approach
 
 Over the past four decades, I have dedicated my career to driving precision, stability, and excellence within major energy, infrastructure, and nuclear compliance projects. Working extensively alongside the U.S. Department of Energy (DOE) and the National Nuclear Security Administration (NNSA), I have had the privilege of managing complex project baselines, life-cycle cost estimates, and multi-million dollar scheduling frameworks at landmark facilities like the Savannah River Site and Vogtle Nuclear Plant.<br>
+
 What defines my life's work, however, is a unique intersection of disciplines. I have always believed in continuous growth, which led me to pair the analytical logic of my mechanical engineering foundation with the corporate strategy of an MBA and the strict regulatory insights of my formal law studies.<br>
+
 Equally central to who I am is my calling to ministry and chaplaincy. Through my Master of Divinity studies and U.S. Army Chaplain training, I have learned that true leadership requires profound empathy. Whether I am balancing a highly technical federal project baseline, counseling teams through high-stress operational environments, raising five beautiful children with my wife, Carolyn, or visiting the Charlie Norwood Department of Veterans Affairs Medical Center (VA) to minister, my goal is to lead with ***absolute precision and unyielding integrity***.
 
 
