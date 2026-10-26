@@ -7,8 +7,6 @@ title: Niel Blackwell
 
 ![head-shot]({{ '/assets/images/head_shot.png' | relative_url }})
 
-**Project Controls • Scheduling • Cost Engineering • Estimating**
-
 Niel Blackwell is a high-caliber Project Controls and Cost Engineering professional with over four decades of distinguished experience driving major energy, infrastructure, and nuclear compliance projects. Throughout a career spanning the U.S. Department of Energy (DOE), the National Nuclear Security Administration (NNSA), and commercial nuclear power generation, Niel has managed millions in project baselines, life-cycle cost estimates, and complex scheduling frameworks.<b>
 What truly sets Niel apart is his rare, multi-disciplinary foundation: he pairs deep technical mechanical engineering rigor with advanced business acumen (MBA), rigorous legal training (Pre-Law & JD studies), and an unyielding commitment to servant leadership and community care (Dual MDiv tracks and U.S. Army Chaplaincy training). This unique intersection allows him to navigate complex federal regulations, optimize corporate asset management, and lead multi-disciplinary teams with absolute precision and profound empathy.<b>
 
