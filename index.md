@@ -138,7 +138,7 @@ Equally central to who I am is my calling to ministry and chaplaincy. Through my
 ## Connect
 
 - [LinkedIn](https://linkedin.com)
-- [CV]({{ '/assets/files/Blackwell_Resume.pdf' | relative_url }})
+- [CV]({{ '/assets/files/NielBlackwell_CV.pdf' | relative_url }})
 - [Email](mailto:niel.blackwell@gmail.com)
 
 <!-- The Button Styling (Hidden by default, shifted up/left, dark border) -->
