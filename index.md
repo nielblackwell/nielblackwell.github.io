@@ -141,7 +141,7 @@ formulation, mission verification, categorization (construction, capital asset a
 
 In the mid-1980s, the commercial nuclear power industry faced massive capital expenditures driven by heightened post-Three Mile Island safety regulations and evolving environmental compliance standards. This symposium paper analyzed the complex corporate and public finance mechanisms utilities utilized to fund multi-million dollar pollution control overhauls.<br>
 
-Drawing upon early-career expertise in nuclear project controls, budgeting, and specialized asset management, the paper provided a comprehensive framework for structuring tax-exempt pollution control revenue bonds (PCRBs), traditional equity/debt financing, and structured utility rate-basing under rigorous state regulatory oversight.</br>
+Drawing upon early-career expertise in nuclear project controls, budgeting, and specialized asset management, the paper provided a comprehensive framework for structuring tax-exempt pollution control revenue bonds (PCRBs), traditional equity/debt financing, and structured utility rate-basing under rigorous state regulatory oversight.<br>
 
 
 
